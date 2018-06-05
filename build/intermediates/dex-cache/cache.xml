@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\libs\opencsv-4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2b63c820c41cd1666df42f1ba296da9894961e59">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\opencsv-4.0-42e26c2d63b4c3da78489ccd491c077de8ea96ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mat-Swan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-9693a95cabbfa0588a36744b79a994dd9c90b545.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\classes-d104fa1e03435b9865c49aa580cf26e9d82b6d6e.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-51df6861a8fd963ce99955016969e203cc7fcc11.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\exploded-aar\WalkingSynth-master\CsoundAndroid\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="01b5d5af90ec4408697cac0e7a406769b540e4e5">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\classes-d71a305c027566884965e20b3fcac6edaffba4e8.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\classes-52e3bd49de188819b2ac869e4c1b49e231067fe1.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Projects\Android\Learn\WalkingSynth-master\WalkingSynth-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-bbe70d53f417b805aa504218a7d78adb050b1b52.jar" />
+    </item>
+
+</items>

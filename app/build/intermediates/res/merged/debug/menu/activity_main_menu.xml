@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_threshold"
+        android:title="Action threshold"></item>
+    <item android:id="@+id/action_info"
+        android:title="Action info"></item>
+
+</menu><!-- From: file:/F:/Projects/Android/Learn/WalkingSynth-master/WalkingSynth-master/app/src/main/res/menu/activity_main_menu.xml -->
